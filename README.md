@@ -1,3 +1,3 @@
 # CarbonFootprintTracker
 
-this app was made during a hackathon hosted by DeltaHacks
+This app was made during a hackathon hosted by DeltaHacks
